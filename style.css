@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+    color: black;
+}
+.image_container{
+    text-align: center;
+}
+.movies{
+    padding: 40px;
+}
+.intro{
+    padding: 5px;
+    border: black solid 3px;
+    margin: 5px;
+}
+h2{
+    color: rgba(54, 25, 136, 0.637);
+    padding:20px;
+    margin: 10px;
+}
+li{
+    padding: 20px;
+}
+h4{
+    padding: 20px;
+    margin: 20px;
+}
